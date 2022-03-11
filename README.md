@@ -1,7 +1,6 @@
 - 👋 Hi, I’m DedSec Owner of Dedseec.com
 - 👀 I’m interested in Cyber Security & Reverse Engineering
 - 🌱 i love to learn and learn from you.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Telegram: officialdedsec
 
 <!---
