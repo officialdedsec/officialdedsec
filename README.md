@@ -1,9 +1,8 @@
-- 👋 Hi, I’m DedSec Owner of Dedseec.com
-- 👀 I’m interested in Cyber Security & Reverse Engineering
-- 🌱 i love to learn and learn from you.
-- 📫 Telegram: officialdedsec
+What Is Crypter?
 
-<!---
-officialdedsec/officialdedsec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A crypter is a type of software that can encrypt, obfuscate, and manipulate malware, to make it harder to detect by security programs. It is used by cybercriminals to create malware that can bypass security programs by presenting itself as a harmless program until it gets installed. Types of crypters.
+
+
+
+Download:
+https://www.dedseec.com/free-crypter-coded-by-dedsec/
