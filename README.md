@@ -1,8 +1,1 @@
-What Is Crypter?
-
-A crypter is a type of software that can encrypt, obfuscate, and manipulate malware, to make it harder to detect by security programs. It is used by cybercriminals to create malware that can bypass security programs by presenting itself as a harmless program until it gets installed. Types of crypters.
-
-
-
-Visit For More Details:
-https://www.dedseec.com/free-crypter-coded-by-dedsec/
+Hey Guys Its DedSec, Founder of DedSeec. I spend most of my free time creating content for my YouTube channel and this website. I started my YouTube channel at age 15 and my goal was to teach people what they can do with their gadgets. I gained a substantial amount of subscribers and viewers. Honestly, at the end of the day, it’s my audience who really inspire me. They are the ones watching my content and giving me feedback. Without them, there would be no point in doing YouTube.
